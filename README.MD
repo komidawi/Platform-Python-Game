@@ -1,7 +1,12 @@
+# CoinCollector
+
 ## Description
+
 A simple platform game created in Python using PyGame library and Tiled Map Editor.
 
-Features:
+It was the first project I have ever made. Although it's mostly just modified tutorial code, I like it as it's memento of my start with the "real IT world" adventure.
+
+## Features:
 * fully playable
 * high difficulty level
 * atmospheric music
